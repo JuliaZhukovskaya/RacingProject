@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\tryMove.cs">
+    <Files>
+      <File FileName="Assets\Assets2\Scripts\ModeTime.cs" Line="10" Column="27" />
+      <File FileName="Assets\Assets2\Scripts\GameOption.cs" Line="8" Column="1" />
+      <File FileName="Assets\Assets2\Scripts\FinishRace.cs" Line="44" Column="59" />
+      <File FileName="Assets\Assets2\Scripts\ModeSelect.cs" Line="23" Column="30" />
+      <File FileName="Assets\Assets2\Scripts\SkyRot.cs" Line="7" Column="30" />
+      <File FileName="Assets\tryMove.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
